@@ -1,29 +1,41 @@
-Awesome-Book
-This is a basic website that allows users to pick random colors by clicking a button. we archived this by using JavaScript objects and arrays. Also dynamically modifing the DOM and adding basic events.
+# Random Color Picker
 
-Built With
-HTML
-CSS
-JavaScript
-Live Demo (if available)
-Live Demo Link
+> This is a basic website that allows users to pick random colors by clicking a button. we archived this by using JavaScript objects and arrays. Also dynamically modifing the DOM and adding basic events.
 
-Getting Started
-Copy repository to local machine
-Open index.html on your prefered browser
-Authors
-👤 Roger Smit Castillo
+## Built With
+- HTML
+- CSS
+- JavaScript
+- webpack
 
-GitHub:https://github.com/latinogan
-Email:roger.castillo.arce@gmail.com
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/roger-smith-a3
-🤝 Contributing
+## Live Demo (https://latinogan.github.io/GeneratedRandomColor/)
+
+
+
+## Getting Started
+
+- Copy repository to local machine
+- Open index.html on your prefered browser
+
+## Authors
+
+👤 **Roger Smit Castillo**
+
+- GitHub:https://github.com/latinogan
+- Email:roger.castillo.arce@gmail.com 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/roger-smith-a3
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-📝 License
-This project is MIT licensed.
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
